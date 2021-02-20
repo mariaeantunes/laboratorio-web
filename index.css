@@ -1,0 +1,70 @@
+body{
+    font-family: 'Bangers', cursive;
+    letter-spacing: 2px;
+    background-color: rgb(4, 41, 252);
+}
+header{
+    background-color: rgb(9, 12, 63);
+    padding: 1px;
+}
+.foto{
+    float: right;
+    height: 195px;
+    margin: 35px;
+}
+
+a{
+    text-decoration: none;
+    color: yellow;
+}
+p{
+    padding: 15px;
+    font-size: 20px;
+    color: black;
+}
+h1{
+    color: yellow;
+   font-size: 100px;
+   letter-spacing: 10px;
+}
+h3{
+    padding: 15px;
+    font-size: 25px;
+    color: yellow;
+}
+.name{
+    color: yellow;
+}
+
+ul{
+list-style-type: none;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding: 5px;
+color: yellow;
+}
+#integrantes{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5px;
+}
+.imginteg{
+    height: 150px;
+}
+footer{
+    background-color: rgb(9, 12, 63);
+    padding: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5px;
+    color: yellow;
+}
+form{
+    border: black solid 2px;
+    padding: 15px;
+    margin: 25px;
+}
